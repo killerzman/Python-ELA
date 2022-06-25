@@ -1,0 +1,4 @@
+imageio==2.13.5
+matplotlib==3.5.1
+numpy==1.21.5
+scikit_image==0.19.1
